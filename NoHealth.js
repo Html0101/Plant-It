@@ -1,4 +1,4 @@
 function back() 
 { 
-    window.location = "Home.html";
+    window.location = "index.html";
 }
